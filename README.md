@@ -4,7 +4,7 @@
 
 A small app that allows the user to log the number of people that they count at a time.
 
-In building and deploying this app, I learnt about the learning platform Scrimba, how to connect HTML with JavaScript, and deploying apps with Netlify.
+In building and deploying this app, I learnt about the learning platform [Scrimba](https://scrimba.com/), how to connect HTML with JavaScript, and deploying apps with [Netlify](https://www.netlify.com/). Specifically, I learnt about "The DOM" (Document Object Model), that is, how to use JavaScript to change the website, e.g. using`getElementById()` and the `.innerText` and `.textContent` properties.
 
 ## Usage
 
