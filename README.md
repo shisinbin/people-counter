@@ -8,7 +8,7 @@ In building and deploying this app, I learnt about the learning platform [Scrimb
 
 ## Usage
 
-This webpage can be accessed and viewed through a web browser at the address below.
+The app can be accessed and used through a web browser at the address below.
 
 https://luminous-fox-1b8473.netlify.app/
 
