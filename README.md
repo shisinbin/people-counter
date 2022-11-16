@@ -8,6 +8,10 @@ In building and deploying this app, I learnt about the learning platform [Scrimb
 
 ## Usage
 
+This webpage can be accessed and viewed through a web browser at the address below.
+
+https://luminous-fox-1b8473.netlify.app/
+
 Clicking on the 'increment' button will increment the counter by 1, and then clicking on the 'save' button will log the counter number below and also reset the counter.
 
 A screenshot of how the app should look on a suitably sized screen is shown below.
